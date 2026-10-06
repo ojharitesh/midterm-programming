@@ -1,6 +1,6 @@
 # CMPSC 202 - Midterm Programming Assignment
 
-Name: *Your Name Here*
+Name: Ritesh Ojha
 
 **Instructions**: Complete the exercise below. Open book, open notes, any tools allowed (except submitting another student's work). Due tonight (10/6) at 11:59pm.
 
